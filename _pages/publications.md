@@ -8,6 +8,8 @@ author_profile: true
 
 **2024**
 
+- **An MLIR-based Compiler for Hardware Acceleration with Recursion Support.** <u>Jiangnan Li</u>,  Zhengyi Zhang, Xuegong Zhou, Lingli Wang. 2024 International Conference on Field Programmable Technology (**ICFPT**), Sydney, December 2024
+
 - **An End-to-End Agile Design Framework to Improve Energy Efficiency on CGRAs.** <u>Jiangnan Li=</u>,  Yazhou Yan=, Guowei Zhu, Wenbo Yin, Lingli Wang. 2024 IEEE 35th International Conference on Application-specific Systems, Architectures and Processors  (**ASAP**), July 2024
 
 - **MDCRA: A Reconfigurable Accelerator Framework for Multiple Dataflow Lanes.** Shaoyang Sun, Boyin Jin, Jiahang Lou, <u>Jiangnan Li</u>, Yuhang Cao, Jingyuan Li, Chen Shen, Yuan Dai, Wenbo Yin, Wai-Shing Luk, Lingli Wang. 2024 IEEE 35th International Conference on Application-specific Systems, Architectures and Processors  (**ASAP**), July 2024
