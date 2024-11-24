@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 I am currently pursuing a Ph.D. in the School of Microelectronics at Fudan University in Shanghai, China, under the supervision of Prof.  [Lingli Wang](https://sme.fudan.edu.cn/60/3c/c31133a352316/page.htm).  I received my B.S. in Electronic Science and Technology from Northwestern University in 2022. My research interests include:
-- Reconfigurable Computing
 - High-Level Synthesis
+- Reconfigurable Computing
 - Hardware/Software Co-Design
 - Compiler
 
@@ -27,7 +27,7 @@ Open-Source Projects
 ======
 - [CGRA-Framework](https://github.com/jiangnan7/CGRA), an end-to-end agile design framework to improve energy efficiency on CGRAs.
 - [CGRA-Mapper](https://github.com/jiangnan7/cgra_mapping), an integrated framework for compilation, exploration, synthesis, and development of spatial accelerators.
-- [MLIR-Recursion](https://github.com/jiangnan7/MLIR-Recursion), An MLIR compilation pipeline that supports recursive applications in High-Level Synthesis (HLS) workflows.
+- [MLIR-Recursion](https://github.com/jiangnan7/MLIR-Recursion), an MLIR compilation pipeline that supports recursive applications in High-Level Synthesis (HLS) workflows.
 
 Selected Awards
 ======

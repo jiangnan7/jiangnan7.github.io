@@ -18,11 +18,11 @@ author_profile: true
 
 - **TransMap: An Efficient CGRA Mapping Framework via Transformer and Deep Reinforcement Learning.** Jingyuan Li, Yuan Dai, Yihan Hu, <u>Jiangnan Li</u>, Wenbo Yin, Jun Tao, Lingli Wang, 2024 IEEE International Parallel and Distributed Processing Symposium Workshops (**IPDPSW**), San Francisco, CA, USA, May 2024
 
-- **HierCGRA: A Novel Framework for Large-scale CGRA with Hierarchical Modeling and Automated Design Space Exploration.** Sichao Chen, Chang Cai, Su Zheng, <u>Jiangnan Li</u>, Guowei Zhu, Jingyuan Li, Yazhou Yan, Yuan Dai, Wenbo Yin, Lingli Wang. ACM Transactions on Reconfigurable Technology and Systems, May 2024.
+- **HierCGRA: A Novel Framework for Large-scale CGRA with Hierarchical Modeling and Automated Design Space Exploration.** Sichao Chen, Chang Cai, Su Zheng, <u>Jiangnan Li</u>, Guowei Zhu, Jingyuan Li, Yazhou Yan, Yuan Dai, Wenbo Yin, Lingli Wang. ACM Transactions on Reconfigurable Technology and Systems (**TRETS**), May 2024.
 
 - **Data Flow Graph Partitioning Method for CGRA Temporal Mapping Based on Bayesian Optimization.** Yihan Hu, <u>Jiangnan Li</u>, Wenbo Yin, Lingli Wang, Wai-Shing Luk, 2024 Conference of Science and Technology for Integrated Circuits(**CSTIC**), March 2022.
 
-- **FDRA: A Framework for a Dynamically Reconfigurable Accelerator Supporting Multi-Level Parallelism.** Yunhui Qiu, Yiqing Mao, Xuchen Gao, Sichao Chen, <u>Jiangnan Li</u>, Wenbo Yin, Lingli Wang. ACM Transactions on Reconfigurable Technology and Systems, January 2024.
+- **FDRA: A Framework for a Dynamically Reconfigurable Accelerator Supporting Multi-Level Parallelism.** Yunhui Qiu, Yiqing Mao, Xuchen Gao, Sichao Chen, <u>Jiangnan Li</u>, Wenbo Yin, Lingli Wang. ACM Transactions on Reconfigurable Technology and Systems (**TRETS**), January 2024.
 
 
 **2023**
