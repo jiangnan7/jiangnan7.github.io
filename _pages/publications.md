@@ -10,6 +10,8 @@ author_profile: true
 
 - **Novel Multi-Corner Delay Padding using Path Relationship Analysis and Dual Decomposition.**   Kaixiang Zhu, <u>Jiangnan Li</u>, Lingli Wang, Wai-Shing Luk. 31st Asia and South Pacific Design Automation Conference (ASP-DAC 2026), January 2026
 
+- **A Collaborative Framework for Multi-Level Multi-Objective Design Space Exploration。** <u>Jiangnan Li=</u>, Kaixiang Zhu=, Yuping Bai, Yunfei Dai, Qing He, Yu He and Lingli Wang. 29th Design, Automation and Test in Europe Conference, Verona, Italy, April 2026
+
 **2025**
 
 - **DynVec: An End-to-End Framework for Efficient Vector-Dataflow Execution.** <u>Jiangnan Li</u>, Xianfeng Cao, Kaixiang Zhu, Wenbo Yin, Lingli Wang. 2025 International Conference on  Computer-Aided Design (**ICCAD**), Munich, Germany, October 2025
