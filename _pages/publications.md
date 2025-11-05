@@ -8,15 +8,15 @@ author_profile: true
 
 **2026**
 
-- **Novel Multi-Corner Delay Padding using Path Relationship Analysis and Dual Decomposition.**   Kaixiang Zhu, <u>Jiangnan Li</u>, Lingli Wang, Wai-Shing Luk. 31st Asia and South Pacific Design Automation Conference (ASP-DAC 2026), January 2026
+- **Novel Multi-Corner Delay Padding using Path Relationship Analysis and Dual Decomposition.**   Kaixiang Zhu, <u>Jiangnan Li</u>, Lingli Wang, Wai-Shing Luk. 31st Asia and South Pacific Design Automation Conference (**ASP-DAC**), January 2026
 
-- **A Collaborative Framework for Multi-Level Multi-Objective Design Space Exploration。** <u>Jiangnan Li=</u>, Kaixiang Zhu=, Yuping Bai, Yunfei Dai, Qing He, Yu He and Lingli Wang. 29th Design, Automation and Test in Europe Conference, Verona, Italy, April 2026
+- **A Collaborative Framework for Multi-Level Multi-Objective Design Space Exploration。** <u>Jiangnan Li=</u>, Kaixiang Zhu=, Yuping Bai, Yunfei Dai, Qing He, Yu He and Lingli Wang. 29th Design, Automation and Test in Europe Conference (**DATE**), Verona, Italy, April 2026
 
 **2025**
 
 - **DynVec: An End-to-End Framework for Efficient Vector-Dataflow Execution.** <u>Jiangnan Li</u>, Xianfeng Cao, Kaixiang Zhu, Wenbo Yin, Lingli Wang. 2025 International Conference on  Computer-Aided Design (**ICCAD**), Munich, Germany, October 2025
 
-- **GEF: A GNN-Based Evaluation Framework for FPGA Routing Architecture.** Yuanqi Wang, Yunfei Dai, <u>Jiangnan Li</u>, Kaixiang Zhu, Huizhen Kuang, Hao Zhou, Eric Ren, Xifan Tang, Weijun Qin, Tao Li and Lingli Wang. the 35th International Conference on Field-Programmable Logic and Applications (FPL 2025), September 2025
+- **GEF: A GNN-Based Evaluation Framework for FPGA Routing Architecture.** Yuanqi Wang, Yunfei Dai, <u>Jiangnan Li</u>, Kaixiang Zhu, Huizhen Kuang, Hao Zhou, Eric Ren, Xifan Tang, Weijun Qin, Tao Li and Lingli Wang. the 35th International Conference on Field-Programmable Logic and Applications (**FPL**), September 2025
 
 **2024**
 

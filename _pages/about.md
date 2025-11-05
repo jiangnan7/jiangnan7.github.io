@@ -18,7 +18,7 @@ Selected Publications
 
 - **DynVec: An End-to-End Framework for Efficient Vector-Dataflow Execution.** <u>Jiangnan Li</u>, Xianfeng Cao, Kaixiang Zhu, Wenbo Yin, Lingli Wang. 2025 International Conference on  Computer-Aided Design (**ICCAD**), Munich, Germany, October 2025
 
-- **A Collaborative Framework for Multi-Level Multi-Objective Design Space Exploration。** <u>Jiangnan Li=</u>, Kaixiang Zhu=, Yuping Bai, Yunfei Dai, Qing He, Yu He and Lingli Wang. 29th Design, Automation and Test in Europe Conference, Verona, Italy, April 2026
+- **A Collaborative Framework for Multi-Level Multi-Objective Design Space Exploration。** <u>Jiangnan Li=</u>, Kaixiang Zhu=, Yuping Bai, Yunfei Dai, Qing He, Yu He and Lingli Wang. 29th Design, Automation and Test in Europe Conference, Verona (**DATE**), Italy, April 2026
 
 - **GRAFT: GNN-based Adaptive Framework for Efficient CGRA Mapping.** <u>Jiangnan Li</u>,  Chang Cai, Yaya Zhao, Yazhou Yan, Wenbo Yin, Lingli Wang. 2023 International Conference on Field Programmable Technology (**ICFPT**), Yokohama, Japan, December 2023
 
