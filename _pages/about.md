@@ -8,10 +8,11 @@ redirect_from:
 ---
 
 I am currently pursuing a Ph.D. in the School of Microelectronics at Fudan University in Shanghai, China, under the supervision of Prof.  [Lingli Wang](https://sme.fudan.edu.cn/60/3c/c31133a352316/page.htm).  I received my B.S. in Electronic Science and Technology from Northwestern University in 2022. My research interests include:
+
+- AI Compiler
 - High-Level Synthesis
 - Reconfigurable Computing
 - Hardware/Software Co-Design
-- Compiler
 
 Selected Publications
 ======
