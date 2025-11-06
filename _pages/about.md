@@ -17,15 +17,15 @@ I am currently pursuing a Ph.D. in the School of Microelectronics at Fudan Unive
 Selected Publications
 ======
 
-- **DynVec: An End-to-End Framework for Efficient Vector-Dataflow Execution.** <u>Jiangnan Li</u>, Xianfeng Cao, Kaixiang Zhu, Wenbo Yin, Lingli Wang. 2025 International Conference on  Computer-Aided Design (**ICCAD**), Munich, Germany, October 2025
+- **DynVec: An End-to-End Framework for Efficient Vector-Dataflow Execution.** **<u>Jiangnan Li</u>**, Xianfeng Cao, Kaixiang Zhu, Wenbo Yin, Lingli Wang. 2025 International Conference on  Computer-Aided Design (**ICCAD**), Munich, Germany, October 2025
 
-- **A Collaborative Framework for Multi-Level Multi-Objective Design Space Exploration.** <u>Jiangnan Li=</u>, Kaixiang Zhu=, Yuping Bai, Yunfei Dai, Qing He, Yu He and Lingli Wang. 29th Design, Automation and Test in Europe Conference, Verona (**DATE**), Italy, April 2026
+- **A Collaborative Framework for Multi-Level Multi-Objective Design Space Exploration.** **<u>Jiangnan Li=</u>**, Kaixiang Zhu=, Yuping Bai, Yunfei Dai, Qing He, Yu He and Lingli Wang. 29th Design, Automation and Test in Europe Conference, Verona (**DATE**), Italy, April 2026
 
-- **GRAFT: GNN-based Adaptive Framework for Efficient CGRA Mapping.** <u>Jiangnan Li</u>,  Chang Cai, Yaya Zhao, Yazhou Yan, Wenbo Yin, Lingli Wang. 2023 International Conference on Field Programmable Technology (**ICFPT**), Yokohama, Japan, December 2023
+- **GRAFT: GNN-based Adaptive Framework for Efficient CGRA Mapping.** **<u>Jiangnan Li</u>**,  Chang Cai, Yaya Zhao, Yazhou Yan, Wenbo Yin, Lingli Wang. 2023 International Conference on Field Programmable Technology (**ICFPT**), Yokohama, Japan, December 2023
 
-- **An MLIR-based Compiler for Hardware Acceleration with Recursion Support.** <u>Jiangnan Li</u>,  Zhengyi Zhang, Xuegong Zhou, Lingli Wang. 2024 International Conference on Field Programmable Technology (**ICFPT**), Sydney, December 2024
+- **An MLIR-based Compiler for Hardware Acceleration with Recursion Support.** **<u>Jiangnan Li</u>**,  Zhengyi Zhang, Xuegong Zhou, Lingli Wang. 2024 International Conference on Field Programmable Technology (**ICFPT**), Sydney, December 2024
 
-- **An End-to-End Agile Design Framework to Improve Energy Efficiency on CGRAs.** <u>Jiangnan Li=</u>,  Yazhou Yan=, Guowei Zhu, Wenbo Yin, Lingli Wang. 2024 IEEE 35th International Conference on Application-specific Systems, Architectures and Processors  (**ASAP**), Hong Kong, Hong Kong, July 2024
+- **An End-to-End Agile Design Framework to Improve Energy Efficiency on CGRAs.** **<u>Jiangnan Li=</u>**,  Yazhou Yan=, Guowei Zhu, Wenbo Yin, Lingli Wang. 2024 IEEE 35th International Conference on Application-specific Systems, Architectures and Processors  (**ASAP**), Hong Kong, Hong Kong, July 2024
 
 
 Open-Source Projects
