@@ -17,11 +17,11 @@ I am currently pursuing a Ph.D. in the School of Microelectronics at Fudan Unive
 Selected Publications
 ======
 
-- **DataFlowGen: An MLIR-based Compiler for Efficient Dataflow Accelerator Generation.**   **<u>Jiangnan Li</u>**, Kaixiang Zhu, Zhengyi Zhang and Lingli Wang.  The Chips to Systems Conference (DAC 2026), July 2026
+- **DataFlowGen: An MLIR-based Compiler for Efficient Dataflow Accelerator Generation.**   **<u>Jiangnan Li</u>**, Kaixiang Zhu, Zhengyi Zhang and Lingli Wang.  The Chips to Systems Conference (**DAC**), July 2026
 
 - **DynVec: An End-to-End Framework for Efficient Vector-Dataflow Execution.** **<u>Jiangnan Li</u>**, Xianfeng Cao, Kaixiang Zhu, Wenbo Yin, Lingli Wang. 2025 International Conference on  Computer-Aided Design (**ICCAD**), Munich, Germany, October 2025
 
-- **A Collaborative Framework for Multi-Level Multi-Objective Design Space Exploration .**   **<u>Jiangnan Li=</u>**, Kaixiang Zhu=, Yuping Bai, Yunfei Dai, Qing He, Yu He, Lingli Wang. Design, Automation and Test in Europe Conference (DATE 2026), April 2026
+- **A Collaborative Framework for Multi-Level Multi-Objective Design Space Exploration .**   **<u>Jiangnan Li=</u>**, Kaixiang Zhu=, Yuping Bai, Yunfei Dai, Qing He, Yu He, Lingli Wang. Design, Automation and Test in Europe Conference (**DATE**), April 2026
 
 - **GRAFT: GNN-based Adaptive Framework for Efficient CGRA Mapping.** **<u>Jiangnan Li</u>**,  Chang Cai, Yaya Zhao, Yazhou Yan, Wenbo Yin, Lingli Wang. 2023 International Conference on Field Programmable Technology (**ICFPT**), Yokohama, Japan, December 2023
 
